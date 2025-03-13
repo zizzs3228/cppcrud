@@ -223,8 +223,7 @@ public:
                 show_tasks_by_priority();
             } else if (command.find("search") == 0) {
                 find_in_text(command.substr(7));
-            }
-            else if (command == "add") {
+            } else if (command == "add") {
                 handle_add_task();
             } else if (command == "update") {
                 handle_update_task();

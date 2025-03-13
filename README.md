@@ -5,4 +5,4 @@
 3) show -p - show all tasks in priority order
 4) update - update task
 5) delete - delete task
-6) search <query> - search in name and description of the task
+6) search query - search in name and description of the task
